@@ -1,5 +1,5 @@
 # Language Modeling and Generation
-## Markovian language model and a language generator.
+### Markovian language model and a language generator
 The purposes of this assignment are: 
   - Text manipulation skills
   - Simple conditional probabilities
