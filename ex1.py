@@ -271,9 +271,3 @@ def tokenize(text,chars=False):
     return [token for token in text if token not in [""]] 
     
 
-
-def who_am_i():
-    """Returns a ductionary with your name, id number and email. keys=['name', 'id','email']
-    """
-    return {'name': 'Mor Kertis', 'id': '300830692', 'email': 'morker@post.bgu.ac.il'}
-
